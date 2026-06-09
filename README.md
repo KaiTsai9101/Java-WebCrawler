@@ -12,9 +12,10 @@ Java网络爬虫
 4. 使用者需自行承担法律责任
 
 ## 🛠️ 技术栈
-- Java
+- JDK 17 或更高版本
 - Jsoup (HTML 解析)
 - Apache HttpClient (HTTP 请求)
+- Maven 3.6+
 
 ## 📖 学习内容
 - URL 提取和去重
@@ -23,7 +24,7 @@ Java网络爬虫
 - HTML 结构解析
 
 ## 🚀 运行方式
-bash mvn spring-boot:run
+打开对应的 Java 文件，右键点击 main 方法，选择 "Run 'xxx.main()'"
 
 ## ⚖️ 法律提示
 在爬取任何网站前，请：
